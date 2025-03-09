@@ -1,0 +1,5 @@
+- Meshnetwerk
+- Still alive signal
+- Watchdog timer
+- Nodes moeten acties kunnen uitvoeren ( via central hub )
+- Nodes configureren

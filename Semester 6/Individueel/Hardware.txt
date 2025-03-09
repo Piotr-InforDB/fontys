@@ -1,0 +1,3 @@
+Temp & Humidity: DHT22: (3v, GPIO23, GND)
+Light: BH1750 ( sda => 21, scl => 22 )
+CO2: scd40 ( sda => 21, scl => 22 )
