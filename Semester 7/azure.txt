@@ -1,0 +1,22 @@
+- Resource group
+- Container Registries
+	- Settings -> Access keys -> Enable admin, copy username, password, login 
+
+	AppName: ( for deployment, not working, needs permissions ) BiometrischToegangssysteemBackend 	
+	RegName: BiometrischToegangssysteemContainers
+	Servier: biometrischtoegangssysteemcontainers.azurecr.io
+	username: BiometrischToegangssysteemContainers
+	pass1: Dv0AoXPc+DEVPAMVUrYCb69kN7HMg7zFQWUq5za0yi+ACRBivoYd
+	pass2: aqM+93nFMavw2zvTvdGW87aIc4Sg1fm3HMT+seLgjs+ACRDvcXyY
+
+-App service => web app => container, ACR
+-GitHub => set secrets
+- deploy.yml
+
+
+Azure -> azure databse for PostgreSQL
+	username: backend
+	password: l6fgNVIzlj
+	server: biometrisch-toegangssysteem-database.postgres.database.azure.com
+	port: 5432
+	name: biometrisch-toegangssysteem-database
