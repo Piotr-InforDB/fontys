@@ -1,0 +1,10 @@
+Sprint 3:
+
+Backend
+CI/CD Pipeline
+Circuit diagram
+Mobiele app
+Werkend prototype
+PCB
+Software Architectuur
+Reddit Feedback
