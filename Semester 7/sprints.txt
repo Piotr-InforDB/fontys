@@ -8,3 +8,7 @@ Werkend prototype
 PCB
 Software Architectuur
 Reddit Feedback
+
+Sprint 4:
+Architectuur
+Unit tests
