@@ -12,3 +12,4 @@ Reddit Feedback
 Sprint 4:
 Architectuur
 Unit tests
+Onderzoek ( Samenvatting / anti spoofing )
